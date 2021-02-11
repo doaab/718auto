@@ -1,2 +1,0 @@
-# 718auto
-test only
